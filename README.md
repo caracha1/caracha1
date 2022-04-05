@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning ... and it will never end
+🌱 I’m currently learning ... and I will never be done
 
 <!--
 **caracha1/caracha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
