@@ -2,6 +2,10 @@
 
 🌱 I’m currently learning ... and I will never be done
 
+Status for my hello project:
+
+[![.github/workflows/main.yml](https://github.com/caracha1/MyJavascriptAction/actions/workflows/main.yml/badge.svg)](https://github.com/caracha1/MyJavascriptAction/actions/workflows/main.yml)
+
 <!--
 **caracha1/caracha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
